@@ -1,5 +1,5 @@
 def meaning_of_life():
-    return 43
+    return 44
 
 
 def main():
