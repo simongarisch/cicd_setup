@@ -3,4 +3,4 @@ import meaning
 
 
 def test_meaning():
-    assert meaning.meaning_of_life() == 42
+    assert meaning.meaning_of_life() == 43
